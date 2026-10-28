@@ -1,0 +1,29 @@
+{
+  "id": "marvel5e-powersets-starter",
+  "title": "Marvel 5E — Powersets (catalogue initial)",
+  "description": "Catalogue de 45 powersets, organise en cinq compendiums de fiches de reference. Aucun texte du manuel reproduit.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Compendium personnel"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.2.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/init.mjs"
+  ]
+}

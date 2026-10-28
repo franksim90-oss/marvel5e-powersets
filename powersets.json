@@ -1,0 +1,57 @@
+{
+  "Energy": [
+    "Acoustikinesis",
+    "Aerokinesis",
+    "Atmokinesis",
+    "Chronokinesis",
+    "Cryokinesis",
+    "Electrokinesis",
+    "Empathy",
+    "Force Field",
+    "Geokinesis",
+    "Healing Factor",
+    "Hydrokinesis",
+    "Illusions",
+    "Intangibility",
+    "Invisibility",
+    "Precognition",
+    "Pyrokinesis",
+    "Restoration",
+    "Shapeshifting",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "Mystical": [
+    "Blood Magic",
+    "Chaos Magic",
+    "Mystical Arts",
+    "Nature Magic",
+    "Necromancy",
+    "Ritualism"
+  ],
+  "Travel": [
+    "Flight",
+    "Superhuman Speed",
+    "Teleportation",
+    "Wings"
+  ],
+  "Physical": [
+    "Brute Combat",
+    "Superhuman Agility",
+    "Superhuman Durability",
+    "Superhuman Reflexes",
+    "Superhuman Senses",
+    "Superhuman Stamina",
+    "Superhuman Strength"
+  ],
+  "Specialization": [
+    "Assassination",
+    "Chi",
+    "Genius",
+    "Heroism",
+    "Martial Arts",
+    "Subterfuge",
+    "Villainy",
+    "Weaponmaster"
+  ]
+}
